@@ -8,13 +8,14 @@ body {
     align-items: center;
     justify-content: space-evenly;
     background: linear-gradient(0deg, rgba(207, 125, 252, 0.819) 0%, rgb(228, 222, 232) 100%);
+    text-align: center;
 }
 
 h1 {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     letter-spacing: 2px;
-    margin-bottom: -3rem;
+    margin-bottom: -5rem;
 }
 
 h1 span {
@@ -26,8 +27,8 @@ h1 span {
 }
 
 .robot {
-    width: 8rem;
-    margin-bottom: -3rem;
+    width: 10rem;
+    margin-bottom: -5rem;
     filter: drop-shadow(3px 1px 4px #000000ca);
 }
 
